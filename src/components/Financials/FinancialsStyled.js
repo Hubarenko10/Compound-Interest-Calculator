@@ -1,4 +1,4 @@
-import TextField, { TextFieldProps } from '@mui/material/TextField';
+import TextField from '@mui/material/TextField';
 import { styled } from '@mui/material/styles';
 export const CssTextField = styled(TextField)({
   '& label.Mui-focused': {
