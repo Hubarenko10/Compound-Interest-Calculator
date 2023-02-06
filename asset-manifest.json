@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/react-homework-template/static/css/main.7acaea2f.css",
-    "main.js": "/react-homework-template/static/js/main.c37b2f60.js",
-    "index.html": "/react-homework-template/index.html",
-    "main.7acaea2f.css.map": "/react-homework-template/static/css/main.7acaea2f.css.map",
-    "main.c37b2f60.js.map": "/react-homework-template/static/js/main.c37b2f60.js.map"
+    "main.css": "/Compound-Interest-Calculator/static/css/main.7acaea2f.css",
+    "main.js": "/Compound-Interest-Calculator/static/js/main.f3ee93c2.js",
+    "index.html": "/Compound-Interest-Calculator/index.html",
+    "main.7acaea2f.css.map": "/Compound-Interest-Calculator/static/css/main.7acaea2f.css.map",
+    "main.f3ee93c2.js.map": "/Compound-Interest-Calculator/static/js/main.f3ee93c2.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.c37b2f60.js"
+    "static/js/main.f3ee93c2.js"
   ]
 }
