@@ -7,7 +7,7 @@ import { Toaster } from 'react-hot-toast';
 export const App = () => {
   useEffect(() => {
     document.body.style.backgroundColor = '#FFFDD0';
-  });
+  },[]);
   return (
     <Box
       sx={{
